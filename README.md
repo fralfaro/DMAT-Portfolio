@@ -12,7 +12,7 @@
 
 ## Portafolio Personal
 
-> **Nota**: Las instrucciones técnicas se encuentran en el siguiente [archivo](docs/setup.md).
+> 🔑 **Nota**: Las instrucciones técnicas se encuentran en el siguiente [archivo](docs/setup.md).
 
 ## Descripción
 
@@ -33,20 +33,13 @@ de manera estructurada en el repositorio. Estos elementos pueden incluir, pero n
 - Conjuntos de datos utilizados en análisis y proyectos.
 - Informes y documentos relacionados con el curso.
 
-Además del contenido específico del curso,
-el portafolio también puede contener
-información personalizada en el archivo `README.md`,
-como el nombre del estudiante, enlaces a
-perfiles profesionales (por ejemplo, LinkedIn o GitHub),
-y cualquier otra información relevante que el estudiante desee compartir.
+## Estructura del repositorio
 
-## Estructura de Carpetas
-
-El portafolio del estudiante sigue una estructura de carpetas
+El portafolio del estudiante sigue una estructura
 organizada que facilita la navegación y la localización 
 de los distintos elementos. 
 
-La estructura de carpetas puede incluir, entre otras:
+La estructura del repositorio puede incluir, entre otras:
 
 - **docs**: Contiene documentación completa del curso, incluyendo códigos, datos y reportes.
   - **codes**: Contiene los códigos o scripts del curso.
@@ -58,6 +51,7 @@ La estructura de carpetas puede incluir, entre otras:
 - **images**: Contiene imágenes relacionadas con el portafolio.
 - **.gitignore**: Archivo que contiene patrones de archivos que se deben ignorar por Git.
 - **LICENSE**: Archivo que contiene información sobre la licencia de uso del portafolio.
+- **README.md**: Archivo markdown que contiene información general de su portafolio.
 
 ## Instrucciones de Uso
 

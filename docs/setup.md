@@ -27,7 +27,7 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
     - Nombre y si se desea algún link a perfil profesional, por ejemplo Linkedin o GitHub.
 
 
-## Estrucutura de Carpetas:
+## Estrucutura del repositorio:
 
 ```
 ├───docs
