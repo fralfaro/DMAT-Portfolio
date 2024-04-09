@@ -41,14 +41,17 @@ de los distintos elementos.
 
 La estructura del repositorio puede incluir, entre otras:
 
-- **docs**: Contiene documentación completa del curso, incluyendo códigos, datos y reportes.
-  - **codes**: Contiene los códigos o scripts del curso.
-    - **homeworks**: Contiene notebooks relacionados con las tareas del curso.
-    - **labs**: Contiene notebooks relacionados con los laboratorios del curso.
-    - **projects**: Contiene notebooks relacionados con los proyectos del curso.
-  - **data**: Contiene los conjuntos de datos relacionados con el curso.
-  - **reports**: Contiene informes relacionados con el curso.
-- **images**: Contiene imágenes relacionadas con el portafolio.
+- **docs**: Carpeta contiene documentación completa del curso.
+  - **codes**: Carpeta que contiene los códigos o scripts del curso.
+    - **homeworks**: Carpeta que contiene las tareas del curso  (formato `.ipynb`).
+    - **labs**: Carpeta que contiene los laboratorios del curso (formato `.ipynb`).
+    - **projects**: Carpeta que contiene los proyectos del curso (formato `.ipynb`).
+  - **data**: Carpeta que contiene los conjuntos de datos relacionados con el curso.
+  - **files**: Carpeta que contiene los archivos del curso.
+    - **homeworks**: Carpeta que contiene las tareas del curso (formato `.pdf`).
+    - **presentations**: Carpeta que contiene las presentaciones del curso (formato `.pdf`).
+    - **reports**: Carpeta que contiene los informes del curso (formato `.pdf`).
+- **images**: Carpeta contiene imágenes relacionadas con el portafolio.
 - **.gitignore**: Archivo que contiene patrones de archivos que se deben ignorar por Git.
 - **LICENSE**: Archivo que contiene información sobre la licencia de uso del portafolio.
 - **README.md**: Archivo markdown que contiene información general de su portafolio.
@@ -62,9 +65,3 @@ se recomienda seguir las siguientes instrucciones:
 2. Personalizar el contenido del portafolio según sea necesario, incluyendo códigos, datos y documentación.
 3. Mantener el portafolio actualizado con el progreso del curso, agregando nuevos elementos según sea necesario.
 4. Personalizar el archivo `README.md` con información relevante, como nombre, enlaces a perfiles profesionales, y descripción adicional del contenido del portafolio.
-
-
-
-
-
-

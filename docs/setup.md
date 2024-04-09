@@ -49,10 +49,19 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
 │   │   ├──data_02.csv
 │   │   ├──data_03.csv
 │   │   └──README.md
-│   ├───reports
-│   │   ├──homework.pdf
-│   │   ├──presentation.pdf
-│   │   └──README.md
+│   ├───files
+│   │   ├───homeworks
+│   │   │   ├──hw_01.pdf
+│   │   │   ├──hw_02.pdf
+│   │   │   └──README.md
+│   │   ├───presentations
+│   │   │   ├──presentation_01.pdf
+│   │   │   ├──presentation_01.pdf
+│   │   │   └──README.md
+│   │   └───reports
+│   │   │   ├──report_01.pdf
+│   │   │   ├──report_02.pdf
+│   │   │   └──README.md
 │   └─── setup.md
 └─── images
       ├─── dmat.png
@@ -65,11 +74,14 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
 
 - **docs**: Carpeta contiene documentación completa del curso.
   - **codes**: Carpeta que contiene los códigos o scripts del curso.
-    - **homeworks**: Carpeta que contiene los notebooks relacionados con las tareas del curso.
-    - **labs**: Carpeta que contiene los notebooks relacionados con los laboratorios del curso.
-    - **projects**: Carpeta que contiene los notebooks relacionados con los proyectos del curso.
+    - **homeworks**: Carpeta que contiene las tareas del curso  (formato `.ipynb`).
+    - **labs**: Carpeta que contiene los laboratorios del curso (formato `.ipynb`).
+    - **projects**: Carpeta que contiene los proyectos del curso (formato `.ipynb`).
   - **data**: Carpeta que contiene los conjuntos de datos relacionados con el curso.
-  - **reports**: Carpeta que contiene informes relacionados con el curso.
+  - **files**: Carpeta que contiene los archivos del curso.
+    - **homeworks**: Carpeta que contiene las tareas del curso (formato `.pdf`).
+    - **presentations**: Carpeta que contiene las presentaciones del curso (formato `.pdf`).
+    - **reports**: Carpeta que contiene los informes del curso (formato `.pdf`).
 - **images**: Carpeta contiene imágenes relacionadas con el portafolio.
 - **.gitignore**: Archivo que contiene patrones de archivos que se deben ignorar por Git.
 - **LICENSE**: Archivo que contiene información sobre la licencia de uso del portafolio.
