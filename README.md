@@ -4,7 +4,7 @@
       <img src="./images/utfsm.png" alt="UM" width="150">
     </td>
     <td align="center" width="50%">
-      <h1> emplate - Portafolio Personal
+      <h1> Template </br> Portafolio Personal
 </h1>
     </td>
     <td align="right" width="25%">
