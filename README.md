@@ -1,16 +1,20 @@
-<header>
-<img src="./images/utfsm.png" width=200 alt="UTFSM" align="left"/>
-<img src="./images/dmat.png" alt="DMAT" align="right"/>
-</header>
-</br></br></br></br></br>
+<table width="100%">
+  <tr>
+    <td align="left" width="25%">
+      <img src="./images/utfsm.png" alt="UM" width="150">
+    </td>
+    <td align="center" width="50%">
+      <h1>Portafolio Personal
+</h1>
+    </td>
+    <td align="right" width="25%">
+      <img src="./images/dmat.png" alt="Facultad" width="150">
+    </td>
+  </tr>
+</table>
 
 </br>
-</br>
 
-
-# DMAT - Departamento de Matemática
-
-## Portafolio Personal
 
 > 🔑 **Nota**: Las instrucciones técnicas se encuentran en el siguiente [archivo](docs/setup.md).
 
